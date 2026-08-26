@@ -11,3 +11,5 @@ invoice data, database files, or OAuth secrets.
 `https://lucem-mac-mini-server.tailbd9f6c.ts.net:10000/`
 
 The redirect preserves the requested path, query string, and URL fragment.
+The doorway also mirrors Levi's tab title, favicons and Open Graph/Twitter
+preview metadata so shared WhatsApp links identify the same application.
